@@ -1,4 +1,4 @@
-# **Projet 4 : Segmentez des clients d'un site e-commerce**
+# **Projet 5 : Segmentez des clients d'un site e-commerce**
 ## <u>Mission</u>
 En tant que consultante pour l'entreprise brésilienne Olist, proposant une solution de vente sur les marketplaces en ligne, l'idée est de fournir une segmentation des clients afin de comprendre les différents types d'utilisateurs grâce à leur comportement et à leurs données personnelles.
 
